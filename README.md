@@ -1,4 +1,4 @@
-# Operating_Systems
+# Operating Systems
 
 
 Este repositorio contiene un conjunto de ejercicios tomados del curso en [Sistemas Operativos](https://www.ucm.es/estudios/grado-ingenieriainformatica-plan-803268) en la [UCM](https://www.ucm.es/ "Universidad Complutense de Madrid").
